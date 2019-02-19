@@ -27,3 +27,7 @@ eraser.on("click", function(){
 $(document).keydown(function(e){
     paint == true ? paint = false : paint = true
 })
+
+$(document).ready(function(){
+    $('.tooltipped').tooltip();
+  });
