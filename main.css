@@ -1,0 +1,28 @@
+
+
+  @font-face {
+      font-family: Pixel;
+      src: url('/fonts/04B_30__.TTF');
+  }
+
+.square {
+  float: left;
+  width: 10px;
+  height: 10px;
+  background: white;
+  border: 0.1% solid black;
+  margin: 0;
+}
+
+.pixel {
+  font-family: Pixel;
+  padding: 10px;
+  font-size: 30px;
+  color:black;
+  
+}
+
+.controls {
+  text-align: center;
+}
+
