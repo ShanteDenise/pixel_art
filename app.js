@@ -8,7 +8,7 @@ var eraser = $("#eraser")
 
 
 //as long as I is less that 8094 add a div with class name square
-for(var i = 0; i < 8094; i++){
+for(var i = 0; i < 9500; i++){
    $square = $("<div class='square'/>");
   $("body").append($square);
 }

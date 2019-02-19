@@ -10,7 +10,7 @@
   width: 10px;
   height: 10px;
   background: white;
-  border: 0.1% solid black;
+  border: 0.1px solid rgba(128, 128, 128, 0.616);
   margin: 0;
 }
 
